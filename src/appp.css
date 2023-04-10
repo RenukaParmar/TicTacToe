@@ -1,0 +1,15 @@
+body{
+/* background-image: url(/public/pexels-photo-1200225.jpeg); */
+ background-repeat: no-repeat; 
+background-size: cover;
+width: 100%;
+}
+.nav1{
+    width: 100%;
+    margin-top: 0px;
+    /* background-repeat: no-repeat; */
+}
+.game{
+background-color: rgb(250, 228, 228);
+
+}
